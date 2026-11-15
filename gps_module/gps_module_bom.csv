@@ -1,0 +1,12 @@
+Designator,Quantity,Value,Footprint,LCSC Part Number,Manufacturer Part Number,Fit
+U1,1,MAX-M10S-00B,ublox_MAX,C4153167,MAX-M10S-00B,yes
+AE1,1,18x18x4 mm GPS L1 patch (through-hole pin),Patch_18x18_TH,C784395,BWGNSCNX18-18W4,yes (hand solder)
+J1,1,Pin header 1x5 2.54 mm,PinHeader_1x05_P2.54mm_Vertical,,,yes (hand solder on bottom side)
+J2,1,U.FL,U.FL_Hirose_U.FL-R-SMT-1,C88374,U.FL-R-SMT-1(80),yes
+FB1,1,600R ferrite,0603,C19330,BLM18AG601SN1D,yes
+C1,1,10uF 10V,0805,C95841,CL21B106KOQNNNE,yes
+C2,1,100nF,0603,C1591,CL10B104KB8NNNC,yes
+R1,1,0R,0603,,,yes (patch antenna selected)
+R2,1,0R,0603,,,no (fit instead of R1 for u.FL)
+R3,1,10R,0603,,,yes
+L1,1,27nH,0603,,,no (fit only for an active antenna)

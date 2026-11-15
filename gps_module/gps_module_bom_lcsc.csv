@@ -1,0 +1,12 @@
+Designator,Qty,Value,Footprint,Fit,LCSC,MPN,Manufacturer,Link,Stock,UnitUSD,Alternate,AlternateMPN,AlternateLink
+AE1,1,18x18 mm L1 patch,Patch_18x18_TH,yes,C784395,BWGNSCNX18-18W4,BAT WIRELESS,https://www.lcsc.com/product-detail/C784395.html,742,0.7146,,,
+C1,1,10uF 10V,C_0805_2012Metric,yes,C95841,CL21B106KOQNNNE,Samsung Electro-Mechanics,https://www.lcsc.com/product-detail/C95841.html,0,0.0816,C17024,CL21A106KPFNNNE,https://www.lcsc.com/product-detail/C17024.html
+C2,1,100nF,C_0603_1608Metric,yes,C1591,CL10B104KB8NNNC,Samsung Electro-Mechanics,https://www.lcsc.com/product-detail/C1591.html,0,0.0071,C24452,CL10B104JB8NNNC,https://www.lcsc.com/product-detail/C24452.html
+FB1,1,600R,L_0603_1608Metric,yes,C19330,BLM18AG601SN1D,muRata,https://www.lcsc.com/product-detail/C19330.html,277000,0.0126,,,
+J1,1,PPS TXD RXD GND VCC,PinHeader_1x05_P2.54mm_Vertical,yes,C358687,MTP125-1105S1,MINTRON,https://www.lcsc.com/product-detail/C358687.html,30980,0.032,,,
+J2,1,U.FL,U.FL_Hirose_U.FL-R-SMT-1_Vertical,yes,C88374,U.FL-R-SMT-1(80),HRS,https://www.lcsc.com/product-detail/C88374.html,290985,0.1102,,,
+L1,1,27nH DNP,L_0603_1608Metric,no (DNP),C162550,LQG18HN27NJ00D,muRata,https://www.lcsc.com/product-detail/C162550.html,4365,0.0887,,,
+R1,1,0R,R_0603_1608Metric,yes,C21189,0603WAF0000T5E,UNI-ROYAL,https://www.lcsc.com/product-detail/C21189.html,7936000,0.0021,,,
+R2,1,0R DNP,R_0603_1608Metric,no (DNP),C21189,0603WAF0000T5E,UNI-ROYAL,https://www.lcsc.com/product-detail/C21189.html,7936000,0.0021,,,
+R3,1,10R,R_0603_1608Metric,yes,C22859,0603WAF100JT5E,UNI-ROYAL,https://www.lcsc.com/product-detail/C22859.html,1236000,0.0019,,,
+U1,1,MAX-M10S-00B,ublox_MAX,yes,C4153167,MAX-M10S-00B,U-BLOX,https://www.lcsc.com/product-detail/C4153167.html,425,11.0156,,,
